@@ -1,0 +1,10 @@
+# Keep private configuration out of version control.
+Secrets.plist
+
+# Xcode and macOS generated files.
+xcuserdata/
+*.xcuserstate
+.DS_Store
+DerivedData/
+build/
+.build/
